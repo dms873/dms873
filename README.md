@@ -1,14 +1,21 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&height=200&text=Jinny❤️&animation=twinkling&fontColor=ffffff&fontSize=50&fontAlignY=30)
 
 👋🏻Hi, I'm Jinny
+- 🌱 I’m currently learning Java 
+- 📫 How to reach me: dms102336@gmail.com
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+---
 
 
+
+ 👩🏻‍💻stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dms873&show_icons=true)
 ---
 
+ 💻 Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dms873)](https://github.com/anuraghazra/github-readme-stats)
 ---
