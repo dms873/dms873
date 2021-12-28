@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&height=200&text=Jinny❤️&animation=twinkling&fontColor=ffffff&fontSize=50&fontAlignY=30)
 
-👋🏻Hi, I'm Jinny
+👋🏻 Hi, I'm Jinny
 - 🌱 I’m currently learning Java 
 - 📫 How to reach me: dms102336@gmail.com
 
@@ -10,7 +10,7 @@
 
 
 
- 👩🏻‍💻stats
+ 👩🏻‍💻 stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dms873&show_icons=true)
 ---
