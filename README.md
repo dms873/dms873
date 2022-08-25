@@ -11,16 +11,24 @@
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) 
 <br>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+<br>
+
 ---
 
+<br>
 
-
- 👩🏻‍💻 stats
+### 👩🏻‍💻 stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dms873&show_icons=true)
+
+<br>
+
 ---
 
- 💻 Languages
+<br>
+
+### 💻 Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dms873)](https://github.com/anuraghazra/github-readme-stats)
 ---
