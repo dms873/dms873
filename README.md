@@ -14,9 +14,6 @@
 
 <br>
 
----
-
-<br>
 
 ### 👩🏻‍💻 stats
 
@@ -24,14 +21,12 @@
 
 <br>
 
----
 
-<br>
 
 ### 💻 Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dms873)](https://github.com/anuraghazra/github-readme-stats)
----
+
 
 
  
