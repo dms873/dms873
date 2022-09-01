@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&height=200&text=Jinny❤️&animation=twinkling&fontColor=ffffff&fontSize=50&fontAlignY=30)
 
 👋🏻 Hi, I'm Jinny
-- 🌱 I’m currently learning Java 
 - 📫 How to reach me: dms102336@gmail.com
-- 22.08.29 ~
+- 🌱 22.08.29 ~
 
 ### 📌 stack
 
