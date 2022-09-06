@@ -20,14 +20,14 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dms873&show_icons=true)
 
-<br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=dms873)](https://github.com/ryo-ma/github-profile-trophy)
 
+<br>
 
 
 ### 💻 Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dms873)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
  
