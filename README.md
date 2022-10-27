@@ -1,4 +1,9 @@
+<!-- 
+![header](https://capsule-render.vercel.app/api?type=wave&color=random&height=300&section=header&text=capsule%20render&fontSize=90)
 ![header](https://capsule-render.vercel.app/api?type=wave&height=200&text=Jinny❤️&animation=twinkling&fontColor=ffffff&fontSize=50&fontAlignY=30)
+&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62
+-->
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Jinny❤️&fontSize=50&animation=fadeIn&fontAlignY=38)
 
 👋🏻 Hi, I'm Jinny
 - 📫 How to reach me: dms102336@gmail.com
@@ -30,7 +35,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dms873)](https://github.com/anuraghazra/github-readme-stats)
 
 
- 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer) 
 
 <!--
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dms873)  
